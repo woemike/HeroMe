@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="144221677339811"
+    token="8506768663159584316"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="150" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="57" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Hero Me/HeroMe-Source/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="144221677339811"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Hero Me/HeroMe-Source/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

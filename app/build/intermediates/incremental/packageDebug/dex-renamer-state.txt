@@ -1,0 +1,7 @@
+#Wed Sep 28 00:03:53 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Hero Me/HeroMe-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_017422ab75c8e7c330bad89eb29294048bb3a154
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Hero Me/HeroMe-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d31f39a6c683010a55ad20caf2ea0e80e3fc89a7/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Hero Me/HeroMe-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d31f39a6c683010a55ad20caf2ea0e80e3fc89a7
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Hero Me/HeroMe-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_017422ab75c8e7c330bad89eb29294048bb3a154/classes.dex
